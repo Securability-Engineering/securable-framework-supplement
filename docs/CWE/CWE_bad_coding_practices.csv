@@ -1,0 +1,61 @@
+MemberOf,View,699,Software Development, link
+HasMember,Base,358,Improperly Implemented Security Check for Standard, https://cwe.mitre.org/data/definitions/358.html
+HasMember,Base,360,Trust of System Event Data, https://cwe.mitre.org/data/definitions/360.html
+HasMember,Base,478,Missing Default Case in Multiple Condition Expression, https://cwe.mitre.org/data/definitions/478.html
+HasMember,Base,487,Reliance on Package-level Scope, https://cwe.mitre.org/data/definitions/487.html
+HasMember,Base,489,Active Debug Code, https://cwe.mitre.org/data/definitions/489.html
+HasMember,Base,547,"Use of Hard-coded, Security-relevant Constants", https://cwe.mitre.org/data/definitions/547.html
+HasMember,Base,561,Dead Code, https://cwe.mitre.org/data/definitions/561.html
+HasMember,Base,562,Return of Stack Variable Address, https://cwe.mitre.org/data/definitions/562.html
+HasMember,Base,563,Assignment to Variable without Use, https://cwe.mitre.org/data/definitions/563.html
+HasMember,Variant,581,Object Model Violation: Just One of Equals and Hashcode Defined, https://cwe.mitre.org/data/definitions/581.html
+HasMember,Base,586,Explicit Call to Finalize(), https://cwe.mitre.org/data/definitions/586.html
+HasMember,Variant,605,Multiple Binds to the Same Port, https://cwe.mitre.org/data/definitions/605.html
+HasMember,Base,628,Function Call with Incorrectly Specified Arguments, https://cwe.mitre.org/data/definitions/628.html
+HasMember,Base,654,Reliance on a Single Factor in a Security Decision, https://cwe.mitre.org/data/definitions/654.html
+HasMember,Class,656,Reliance on Security Through Obscurity, https://cwe.mitre.org/data/definitions/656.html
+HasMember,Base,694,Use of Multiple Resources with Duplicate Identifier, https://cwe.mitre.org/data/definitions/694.html
+HasMember,Base,807,Reliance on Untrusted Inputs in a Security Decision, https://cwe.mitre.org/data/definitions/807.html
+HasMember,Base,1041,Use of Redundant Code, https://cwe.mitre.org/data/definitions/1041.html
+HasMember,Base,1043,Data Element Aggregating an Excessively Large Number of Non-Primitive Elements, https://cwe.mitre.org/data/definitions/1043.html
+HasMember,Base,1044,Architecture with Number of Horizontal Layers Outside of Expected Range, https://cwe.mitre.org/data/definitions/1044.html
+HasMember,Base,1045,Parent Class with a Virtual Destructor and a Child Class without a Virtual Destructor, https://cwe.mitre.org/data/definitions/1045.html
+HasMember,Base,1046,Creation of Immutable Text Using String Concatenation, https://cwe.mitre.org/data/definitions/1046.html
+HasMember,Base,1048,Invokable Control Element with Large Number of Outward Calls, https://cwe.mitre.org/data/definitions/1048.html
+HasMember,Base,1049,Excessive Data Query Operations in a Large Data Table, https://cwe.mitre.org/data/definitions/1049.html
+HasMember,Base,1050,Excessive Platform Resource Consumption within a Loop, https://cwe.mitre.org/data/definitions/1050.html
+HasMember,Base,1063,Creation of Class Instance within a Static Code Block, https://cwe.mitre.org/data/definitions/1063.html
+HasMember,Base,1065,Runtime Resource Management Control Element in a Component Built to Run on Application Servers, https://cwe.mitre.org/data/definitions/1065.html
+HasMember,Base,1066,Missing Serialization Control Element, https://cwe.mitre.org/data/definitions/1066.html
+HasMember,Base,1067,Excessive Execution of Sequential Searches of Data Resource, https://cwe.mitre.org/data/definitions/1067.html
+HasMember,Base,1070,Serializable Data Element Containing non-Serializable Item Elements, https://cwe.mitre.org/data/definitions/1070.html
+HasMember,Base,1071,Empty Code Block, https://cwe.mitre.org/data/definitions/1071.html
+HasMember,Base,1072,Data Resource Access without Use of Connection Pooling, https://cwe.mitre.org/data/definitions/1072.html
+HasMember,Base,1073,Non-SQL Invokable Control Element with Excessive Number of Data Resource Accesses, https://cwe.mitre.org/data/definitions/1073.html
+HasMember,Base,1079,Parent Class without Virtual Destructor Method, https://cwe.mitre.org/data/definitions/1079.html
+HasMember,Base,1082,Class Instance Self Destruction Control Element, https://cwe.mitre.org/data/definitions/1082.html
+HasMember,Base,1084,Invokable Control Element with Excessive File or Data Access Operations, https://cwe.mitre.org/data/definitions/1084.html
+HasMember,Base,1085,Invokable Control Element with Excessive Volume of Commented-out Code, https://cwe.mitre.org/data/definitions/1085.html
+HasMember,Base,1087,Class with Virtual Method without a Virtual Destructor, https://cwe.mitre.org/data/definitions/1087.html
+HasMember,Base,1089,Large Data Table with Excessive Number of Indices, https://cwe.mitre.org/data/definitions/1089.html
+HasMember,Base,1092,Use of Same Invokable Control Element in Multiple Architectural Layers, https://cwe.mitre.org/data/definitions/1092.html
+HasMember,Base,1094,Excessive Index Range Scan for a Data Resource, https://cwe.mitre.org/data/definitions/1094.html
+HasMember,Base,1097,Persistent Storable Data Element without Associated Comparison Control Element, https://cwe.mitre.org/data/definitions/1097.html
+HasMember,Base,1098,Data Element containing Pointer Item without Proper Copy Control Element, https://cwe.mitre.org/data/definitions/1098.html
+HasMember,Base,1099,Inconsistent Naming Conventions for Identifiers, https://cwe.mitre.org/data/definitions/1099.html
+HasMember,Base,1101,Reliance on Runtime Component in Generated Code, https://cwe.mitre.org/data/definitions/1101.html
+HasMember,Base,1102,Reliance on Machine-Dependent Data Representation, https://cwe.mitre.org/data/definitions/1102.html
+HasMember,Base,1103,Use of Platform-Dependent Third Party Components, https://cwe.mitre.org/data/definitions/1103.html
+HasMember,Base,1104,Use of Unmaintained Third Party Components, https://cwe.mitre.org/data/definitions/1104.html
+HasMember,Base,1106,Insufficient Use of Symbolic Constants, https://cwe.mitre.org/data/definitions/1106.html
+HasMember,Base,1107,Insufficient Isolation of Symbolic Constant Definitions, https://cwe.mitre.org/data/definitions/1107.html
+HasMember,Base,1108,Excessive Reliance on Global Variables, https://cwe.mitre.org/data/definitions/1108.html
+HasMember,Base,1109,Use of Same Variable for Multiple Purposes, https://cwe.mitre.org/data/definitions/1109.html
+HasMember,Base,1113,Inappropriate Comment Style, https://cwe.mitre.org/data/definitions/1113.html
+HasMember,Base,1114,Inappropriate Whitespace Style, https://cwe.mitre.org/data/definitions/1114.html
+HasMember,Base,1115,Source Code Element without Standard Prologue, https://cwe.mitre.org/data/definitions/1115.html
+HasMember,Base,1116,Inaccurate Comments, https://cwe.mitre.org/data/definitions/1116.html
+HasMember,Base,1117,Callable with Insufficient Behavioral Summary, https://cwe.mitre.org/data/definitions/1117.html
+HasMember,Base,1126,Declaration of Variable with Unnecessarily Wide Scope, https://cwe.mitre.org/data/definitions/1126.html
+HasMember,Base,1127,Compilation with Insufficient Warnings or Errors, https://cwe.mitre.org/data/definitions/1127.html
+HasMember,Base,1235,Incorrect Use of Autoboxing and Unboxing for Performance Critical Operations, https://cwe.mitre.org/data/definitions/1235.html

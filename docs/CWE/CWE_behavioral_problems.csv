@@ -1,0 +1,19 @@
+HasMember,Base,115,Misinterpretation of Input
+HasMember,Base,179,Incorrect Behavior Order: Early Validation
+HasMember,Base,408,Incorrect Behavior Order: Early Amplification
+HasMember,Base,437,Incomplete Model of Endpoint Features
+HasMember,Base,439,Behavioral Change in New Version or Environment
+HasMember,Base,440,Expected Behavior Violation
+HasMember,Base,444,Inconsistent Interpretation of HTTP Requests ('HTTP Request/Response Smuggling')
+HasMember,Base,480,Use of Incorrect Operator
+HasMember,Base,483,Incorrect Block Delimitation
+HasMember,Base,484,Omitted Break Statement in Switch
+HasMember,Base,551,Incorrect Behavior Order: Authorization Before Parsing and Canonicalization
+HasMember,Base,698,Execution After Redirect (EAR)
+HasMember,Base,733,Compiler Optimization Removal or Modification of Security-critical Code
+HasMember,Base,783,Operator Precedence Logic Error
+HasMember,Base,835,Loop with Unreachable Exit Condition ('Infinite Loop')
+HasMember,Base,837,"Improper Enforcement of a Single, Unique Action"
+HasMember,Base,841,Improper Enforcement of Behavioral Workflow
+HasMember,Base,1025,Comparison Using Wrong Factors
+HasMember,Base,1037,Processor Optimization Removal or Modification of Security-critical Code

@@ -1,0 +1,8 @@
+MemberOf,View,699,Software Development, link
+HasMember,Base,242,Use of Inherently Dangerous Function, https://cwe.mitre.org/data/definitions/242.html
+HasMember,Base,474,Use of Function with Inconsistent Implementations, https://cwe.mitre.org/data/definitions/474.html
+HasMember,Base,475,Undefined Behavior for Input to API, https://cwe.mitre.org/data/definitions/475.html
+HasMember,Base,477,Use of Obsolete Function, https://cwe.mitre.org/data/definitions/477.html
+HasMember,Base,676,Use of Potentially Dangerous Function, https://cwe.mitre.org/data/definitions/676.html
+HasMember,Base,695,Use of Low-Level Functionality, https://cwe.mitre.org/data/definitions/695.html
+HasMember,Base,749,Exposed Dangerous Method or Function, https://cwe.mitre.org/data/definitions/749.html
